@@ -4,7 +4,7 @@
   "description": "function to get GMT time from an http request",
   "main": "index.js",
   "scripts": {
-    "test": "ava tests"
+    "test": "./node_modules/.bin/ava tests/integration"
   },
   "keywords": [
     "server",
